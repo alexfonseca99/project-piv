@@ -5,5 +5,6 @@ Computer Vision and Image Processing course project
 
 Techniques used include:
  1. Feature extraction (SIFT) and matching
- 2. Perspective matching/homography estimation
- 3. Point cloud projection
+ 2. Outlier detection (RANSAC)
+ 3. Perspective matching/homography estimation
+ 4. Point cloud projection
